@@ -3,7 +3,7 @@ import { createClient } from
 
 const URL_SUPABASE = "https://nshgtsqjwynqgrrucyyn.supabase.co";
 
-const CHAVE_PUBLICA = "sb_publishable_qUFsft7YrquAqNnzc1MvbA_kUO3TjCWsb_publishable_qUFsft7YrquAqNnzc1MvbA_kUO3TjCW";
+const CHAVE_PUBLICA = "sb_publishable_qUFsft7YrquAqNnzc1MvbA_kUO3TjCW";
 
 const supabase = createClient(URL_SUPABASE, CHAVE_PUBLICA);
 const BUCKET = "portfolio-fotos";
